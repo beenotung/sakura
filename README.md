@@ -65,11 +65,11 @@ the [reddit thread](https://www.reddit.com/r/webdev/comments/68zpdp/sakura_a_min
 1. Download the file:
 
     ```bash
-    wget "https://raw.githubusercontent.com/oxalorg/sakura/master/css/sakura.css"
+    wget "https://raw.githubusercontent.com/beenotung/sakura/master/css/sakura.css"
     ```
 
     **OR** download directly:
-    [sakura.css](https://raw.githubusercontent.com/oxalorg/sakura/master/css/sakura.css)
+    [sakura.css](https://raw.githubusercontent.com/beenotung/sakura/master/css/sakura.css)
 
 2. Link it from html:
 
@@ -82,7 +82,7 @@ the [reddit thread](https://www.reddit.com/r/webdev/comments/68zpdp/sakura_a_min
 1. Simply add this in your `<head>` tag.
 
     ```html
-    <link rel="stylesheet" href="https://unpkg.com/sakura.css/css/sakura.css" type="text/css">
+    <link rel="stylesheet" href="https://unpkg.com/@beenotung/sakura.css/css/sakura.css" type="text/css">
     ```
 
 **Package Manager**:
@@ -90,13 +90,13 @@ the [reddit thread](https://www.reddit.com/r/webdev/comments/68zpdp/sakura_a_min
 1. Install from npm:
     
     ```bash
-    npm install sakura.css
+    npm install @beenotung/sakura.css
     ```
 
 2. Install from Yarn:
     
     ```bash
-    yarn add sakura.css
+    yarn add @beenotung/sakura.css
     ```
 
 **(Optional)** *but recommended* to use
