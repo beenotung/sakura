@@ -1,6 +1,6 @@
 {
-  "name": "sakura.css",
-  "version": "1.0.0",
+  "name": "@beenotung/sakura.css",
+  "version": "1.1.0",
   "description": "A minimal classless css theme. Just drop it in and watch the website blossom!",
   "main": "css/sakura.css",
   "scripts": {
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oxalorg/sakura.git"
+    "url": "git+https://github.com/beenotung/sakura.git"
   },
   "keywords": [
     "css",
@@ -30,9 +30,12 @@
     "reset"
   ],
   "author": "Mitesh Shah <mitesh@oxal.org> (https://oxal.org)",
+  "maintainers": [
+    "Beeno Tung <aabbcc1241@yahoo.com.hk> (https://beeno-tung.surge.sh/)"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oxalorg/sakura/issues"
+    "url": "https://github.com/beenotung/sakura/issues"
   },
   "homepage": "https://oxal.org/projects/sakura/",
   "devDependencies": {

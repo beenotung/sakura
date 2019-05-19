@@ -2,10 +2,12 @@
 
 [![npm][npm-image]][npm-url]
 
-[npm-image]: https://img.shields.io/npm/v/sakura.css.svg?colorB=982c61
-[npm-url]: https://www.npmjs.com/package/sakura.css
+[npm-image]: https://img.shields.io/npm/v/@beenotung/sakura.css.svg?colorB=982c61
+[npm-url]: https://www.npmjs.com/package/@beenotung/sakura.css
 
-[Go to [Github repository](https://github.com/oxalorg/sakura)]
+Forked from [oxalorg/sakura](https://github.com/oxalorg/sakura)
+
+[Go to [Github repository](https://github.com/beenotung/sakura)]
 
 ![The cherry blossoms](sakura160.jpg)
 
